@@ -1,0 +1,23 @@
+header{
+    height: 100px;
+    width: 100%;
+    background-color: gainsboro;
+    display: flex;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+li{
+    color:blueviolet;
+    padding-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul{
+   padding: 20px 20%;
+   display: flex;
+   
+}
+.logo-ls{
+    padding-left: 10px;
+}
